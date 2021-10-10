@@ -1,0 +1,12 @@
+smhi_name;yr_name;unit;description
+pmin;precipitation_amount_min;kg/m2/h;Minimum precipitation intensity
+pmean;precipitation_amount;kg/m2/h;Mean precipitation intensity
+pmax;precipitation_amount_max;kg/m2/h;Maximum precipitation intensity
+pmedian;precipitation_amount;kg/m2/h;Median precipitation intensity
+t;air_temperature;Cel;Air temperature
+msl;air_pressure_at_sea_level;hPa;Air pressure
+wd;wind_from_direction;degree;Wind direction
+ws;wind_speed;m/s;Wind speed
+r;relative_humidity;percent;Relative humidity
+tstm;probability_of_thunder;percent;Thunder probability
+gust;wind_speed_of_gust;m/s;Wind gust speed

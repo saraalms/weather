@@ -130,3 +130,4 @@ dmypy.json
 
 # My ignored
 .DS_Store
+smhi_locations.csv
